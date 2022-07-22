@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\bin\Debug\BIMIII Final Project.dll
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\bin\Debug\BIMIII Final Project.pdb
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project.dll
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project.pdb
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\Viewer.g.cs
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project_MarkupCompile.cache
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project_MarkupCompile.lref
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\Viewer.baml
+C:\Users\lenovo\source\repos\BIMIII Final Project\BIMIII Final Project\obj\Debug\BIMIII Final Project.g.resources

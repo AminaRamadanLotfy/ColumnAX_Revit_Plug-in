@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<!--<External Application>-->
+	<AddIn Type="Application">
+		<Name>MyRevitApplication</Name>
+		<Assembly>BIMIII Final Project.dll</Assembly>
+		<AddInId>055E377F-71EB-4030-8809-BB49E5332480</AddInId>
+		<FullClassName>DimColumns.ExternalApplication</FullClassName>
+		<Text>Add-in</Text>
+		<Description>Add-in</Description>
+		<VendorId>AminaRamadan</VendorId>
+		<VendorDescription>BIM Development</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<!--<VisibilityMode>AlwaysVisible</VisibilityMode>-->
+	</AddIn>
+	
+	<!--<Column Dimension>-->
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>BIMIII Final Project.dll</Assembly>
+		<AddInId>F159E84C-FC1C-43EC-AF42-A4012F8E8BB2</AddInId>
+		<FullClassName>DimColumns.ColumnDimension</FullClassName>
+		<Text>Column Dimension</Text>
+		<Description>Column Dimension</Description>
+		<VendorId>AminaRamadan</VendorId>
+		<VendorDescription>BIM Development</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<!--<VisibilityMode>AlwaysVisible</VisibilityMode>-->
+	</AddIn>
+
+</RevitAddIns>
